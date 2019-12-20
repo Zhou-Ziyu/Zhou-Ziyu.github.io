@@ -1,0 +1,116 @@
+
+
+<html>
+<head>
+<title>My frist page!</title>
+
+	<link rel="stylesheet" href="mystyle.css">
+    
+</head>
+
+<body>
+<ul class="navbar">
+  
+    <li><a href="index.html">My frist page</a>
+  <li><a href="A.html">Introduction!</a>
+  <li><a href="B.html">My hometown~</a>
+  <li><a href="MyPPT.pptx">MyPPT.pptx</a>
+  <li><a href="MyWord.docs">MyWord.docx</a>
+  <li><a href="piechart.xlsx">piechart.xlsx</a>
+  <li><a href="Mooncity.xlsx">Mooncity.xlsx</a>
+ </ul>
+<h1 align="center">Welcome to my Website</h1>
+<h2 align="center">------Zhou Ziyu</h2>
+<h1 style="color:pink">My first styled page</h1>
+
+<h2 style="color:pink"><p>Welcome to my styled page!
+
+<p>there are some links and they really go to some where!
+	<p>you can try~~~;
+
+<p>So,now you are in my website,you can get know about me now.<h2>
+
+<h5>------------------------------------------------------------------------------------------------------------------------------------------------------------<h5>
+<address style="color:pink">Made 20 December 2019<br>
+  by myself.</address>
+
+</body>
+</html>
+
+
+
+<html>
+<head>
+<title>Introduction!</title>
+
+	<link rel="stylesheet" href="mystyle.css">
+    
+</head>
+
+
+
+    <ul class="navbar">
+
+    <li><a href="index.html">My frist page</a>
+  <li><a href="A.html">Introduction!</a>
+  <li><a href="B.html">My hometown~</a>
+  <li><a href="MyPPT.pptx">MyPPT.pptx</a>
+  <li><a href="MyWord.docs">MyWord.docx</a>
+  <li><a href="piechart.xlsx">piechart.xlsx</a>
+  <li><a href="Mooncity.xlsx">Mooncity.xlsx</a>
+ </ul>
+ <h1 align="center">Welcome to my Website</h1>
+<h2 align="center">------Zhou Ziyu</h2>
+<h2>Basic Information</h2>
+<img align="right"src="6.jpg" alt="ͼƬ" width="500" height="420"/>
+<h3><p style="color:red">Personal Information</h3></p>
+  <ul>
+  	<em><p><li>wechat:qswszy2367</p></li>
+    <p><li>phone number:13827599452</p></li>
+    <p><li>the public:qswszy0127</p></em></li>
+  </ul>  
+<h3><p style="color:blue">Study Experience</h3></p>
+<em><p>Middle school:Guangdong Zhaoqing Middle School</p> 
+<p>University:XiamenUniversity Malaysia</p></em>
+<h3><p style="color:pink">Aim</h3></p>
+<em>Got a CGPA above 3.5</em>
+<h2>Hobbies</h2>
+<h3><p style="color:green">Eating</h3></p>
+<em>Cantonese snack,syrup,barbecue and so on if you come to GuangDong,I can stand treat</em>
+<h3><p style="color:purple">Traveling</h3></p>
+<em>I have been to many places during my summer vacation,such as sichuang,shanghai,jiangshu,macao...You can also contact me if you have any travel plans</em>
+<h3><p style="color:orange">Movies</h3></p>
+<em>I like watching movies,especially in my free time.</em>
+<h2><p style="color:grey">last:if you want to know more about me!you can check my ppt and words</h2></p>
+
+
+
+<html>
+<head>
+<title>My Hometown!</title>
+
+	<link rel="stylesheet" href="mystyle.css">
+    
+</head>
+
+<ul class="navbar">
+     <li><a href="index.html">My frist page</a>
+  <li><a href="A.html">Introduction!</a>
+  <li><a href="B.html">My hometown~</a>
+  <li><a href="MyPPT.pptx">MyPPT.pptx</a>
+  <li><a href="MyWord.docs">MyWord.docx</a>
+  <li><a href="piechart.xlsx">piechart.xlsx</a>
+  <li><a href="Mooncity.xlsx">Mooncity.xlsx</a>
+</ul>
+<h1 align="center">Welcome to my Website</h1>
+<h2 align="center">------Zhou Ziyu</h2>
+<h2 align="center"><p style="color:green">My Beautiful hometown!</h2></p>
+<h3><p >My Hometown is in Zhaoqing,a Quiet and fast-growing city in Guangdong</h3></p>
+<em><p>there are many beatuiful places in Zhaoqing</p>
+	<p>some pictures:</p>
+ <img src="2.jpg" alt="ͼƬ" width="500" height="420"/>
+ <img src="3.jpg" alt="ͼƬ" width="500" height="420"/>
+<p>There are also many delicious foods in Zhaoqing</p></em>
+<img src="4.jpg" alt="ͼƬ" width="600" height="420"/>
+<img src="5.jpg" alt="ͼƬ" width="500" height="420"/>
+<h1 align="center">Welcome to my hometown!</h1>
